@@ -1,8 +1,7 @@
 # LuxeChat
 Luxe Chat Application - including Emoji, attach picture and realtime typing functionality
 
-# Demo Version
-https://antishev-chat-app.herokuapp.com/
+## [Demo Version](https://antishev-chat-app.herokuapp.com/)
 
 ## Technologies in use
 Socket.io, Express.js, React.js, Node.js
