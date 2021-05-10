@@ -1,10 +1,17 @@
 # LuxeChat
-Luxe Chat Application - including Emoji, attach picture and realtime typing functionality
+Luxe Chat Application - includes Emoji, picture attachment and real-time typing functionality
 
 ## [Demo Version](https://antishev-chat-app.herokuapp.com/)
 
 ## Technologies in use
-Socket.io, Express.js, React.js, Node.js
+
+Frontend: ReactJS, React Hooks, emoji-mart, Socket.io
+
+Backend: Socket.io, Express.js, Node.js, Typescript
+
+## Author
+
+Yuri Antishev
 
 ## Start this app on the local machine
 ```bash
@@ -14,3 +21,6 @@ yarn install in main folder and in backend & frontend folders too
 # Run the APP
 yarn start
 ```
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
